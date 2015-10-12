@@ -1,2 +1,0 @@
-# Training
-learning android developement
